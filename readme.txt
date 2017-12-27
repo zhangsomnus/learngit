@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 creating a new branch is %^^^ quick
+=======
+creating a new branch is and quick
+>>>>>>> feature1
 11111111111111111111111111
 22222222222222222222222222
 33333333333333333333333333
