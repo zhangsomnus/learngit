@@ -1,4 +1,13 @@
-<<<<<<< HEAD
+p
+p
+p
+p
+p
+p
+p
+p
+
+<<<<<< HEAD
 creating a new branch is %^^^ quick
 =======
 creating a new branch is and quick
